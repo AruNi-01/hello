@@ -1,3 +1,5 @@
-module github.com/AruNi-01/hello/v2
+module github.com/AruNi-01/hello
 
 go 1.18
+
+retract v0.1.0
